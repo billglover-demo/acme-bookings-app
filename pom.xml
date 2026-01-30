@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.20</version>
+		<version>3.2.19</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.acme.boot</groupId>
@@ -37,7 +37,7 @@
                 <dependency>
                         <groupId>com.acme.boot</groupId>
                         <artifactId>acme-boot-starter</artifactId>
-                        <version>2.0.0</version>
+                        <version>3.0.0</version>
                 </dependency>
 
 		<dependency>
